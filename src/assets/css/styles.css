@@ -84,13 +84,13 @@ html {
     background-color: #fff;
   }
   .addable .add-button {
-    background-color: #00d78f;
+    background-color: #dda0dd;
     pointer-events: auto;
     cursor: pointer;
   }
   
   .add-button:active {
-    background-color: #00d78f;
+    background-color: #dda0dd;
   }
   
   .list {
